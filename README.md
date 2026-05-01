@@ -30,3 +30,6 @@ Enter PIN: 1245
 3. Deposit  
 4. Check Balance  
 5. Exit  
+
+## Output
+![Output](BankTransactionOutput.png)
